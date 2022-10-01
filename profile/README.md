@@ -1,6 +1,9 @@
-UIGF org
-> Uniformed Interchangeable Genshin Impact Format Organization
-
+# UIGF Organization
+> Uniformed Interchangeable Genshin Impact Format Organization  
 > 统一可交换原神数据格式组织
 
-我们通过制订、审查、发布、迭代相关的数据交换标准，推动各个原神工具间的联通。
+We promote the connectivity between various Apps by formulating, reviewing, publishing and iterating relevant standards.  
+我们通过制订、审查、发布、迭代相关的标准，推动各个App间的联通。
+
+Feel free to open a discussion here to propose a new format or revise a existing standard.  
+欢迎在此展开讨论，提出新格式或修订现有标准.
